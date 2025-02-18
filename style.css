@@ -1,0 +1,33 @@
+table {
+    display: grid;
+    grid-template-columns: 7;
+    text-align: center;
+    border: 2px solid black;
+   margin: 2vh;
+}
+.tt th{
+    border: 1px solid black;
+    width: calc(100vw/8);
+    height: calc(50vh/6);
+}
+.tt th{
+    border: 1px solid black;
+    width: calc(100vw/8);
+    height: calc(50vh/6);
+}
+.tt td{
+    border: 1px solid black;
+    width: calc(100vw/8);
+    height: calc(50vh/6);
+}
+
+.fac th{
+    border: 1px solid black;
+    width: calc(100vw/8);
+    height: calc(50vh/10);
+}
+.fac td{
+    border: 1px solid black;
+    width: calc(100vw/4);
+    height: calc(50vh/12);
+}
